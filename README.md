@@ -5,6 +5,11 @@ Wei-Ting Chen, Hao-Yu Feng, Jian-Jiun Ding, Chen-Che Tsai and Sy-Yen Kuo
 Paper:
 https://ieeexplore.ieee.org/document/9094006
 
+![image](https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020/blob/master/folder/1.png)
+
+
+
+
 We also provide a large-scale snow dataset which contains the veiling effect called "Snow Removal in Realistic Scenario (SRRS)". You can download from:
 
 
