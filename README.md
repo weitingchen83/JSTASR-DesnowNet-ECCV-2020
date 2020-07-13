@@ -63,7 +63,7 @@ Please download three pre-trained models to the folder "modelParam".
 Please cite this paper in your publications if it helps your research.  
 
 Bibtex:
-
+```
 @inproceedings{JSTASRChen,
   title={JSTASR: Joint Size and Transparency-Aware Snow Removal Algorithm Based on Modified Partial Convolution and Veiling Effect Removal},
   author={Chen, Wei-Ting and Fang, Hao-Yu and Ding, Jian-Jiun and Tsai, Chen-Che and Kuo, Sy-Yen},
@@ -71,3 +71,4 @@ Bibtex:
   year={2020}
 }
 
+```
