@@ -13,7 +13,7 @@ https://ieeexplore.ieee.org/document/9094006
 We also provide a large-scale snow dataset which contains the veiling effect called "Snow Removal in Realistic Scenario (SRRS)". You can download from:
 
 
-#######################################################################################################################################################
+######################################################################################################
 You can also refer our previous works on dehazing:
 
 1."PMS-Net: Robust Haze Removal Based on Patch Map for Single Images" which has been published in CVPR 2019.
