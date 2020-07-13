@@ -46,16 +46,16 @@ To generate the recovered result you need:
 5. cv2 3.4.4
 
 Testing
-
-python ./predict.py -dataroot ./your_dataroot -datatype datatype -predictpath ./output_path -batch_size batchsize
-
+```
+& python ./predict.py -dataroot ./your_dataroot -datatype datatype -predictpath ./output_path -batch_size batchsize
+```
 *datatype default: tif, jpg ,png
 
 Example:
-
-python ./predict.py -dataroot ./testImg -predictpath ./p -batch_size 3
-python ./predict.py -dataroot ./testImg -datatype tif -predictpath ./p -batch_size 3
-
+```
+& python ./predict.py -dataroot ./testImg -predictpath ./p -batch_size 3
+& python ./predict.py -dataroot ./testImg -datatype tif -predictpath ./p -batch_size 3
+```
 The pre-trained model can be found at: https://drive.google.com/drive/folders/1xlH552gblaaD12ALmmN0h04t6ogDdHp9?usp=sharing
 Please download three pre-trained models to the folder "modelParam".
 
