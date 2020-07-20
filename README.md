@@ -1,6 +1,6 @@
 # JSTASR: Joint Size and Transparency-AwareSnow Removal Algorithm Based on ModifiedPartial Convolution and Veiling Effect Removal (Accepted by ECCV-2020)
 
-**1^Wei-Ting Chen, 2^Hao-Yu Feng, 2^Jian-Jiun Ding, 1^Chen-Che Tsai and 2^Sy-Yen Kuo**
+**^1^Wei-Ting Chen, ^2^Hao-Yu Feng, ^2^Jian-Jiun Ding, ^1^Chen-Che Tsai and ^2^Sy-Yen Kuo**
 **^1^Graduate Institute of Electronics Engineering, National Taiwan University, Taipei**
 **^2^Department of Electrical Engineering, National Taiwan University, Taipei**
 Paper:
