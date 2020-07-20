@@ -3,7 +3,7 @@
 Wei-Ting Chen, Hao-Yu Feng, Jian-Jiun Ding, Chen-Che Tsai and Sy-Yen Kuo
 
 Paper:
-https://ieeexplore.ieee.org/document/9094006
+To be updated
 
 ![image](https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020/blob/master/folder/757b447c-5599-4000-bdf9-dbe215607cc3-u1.png)
 
