@@ -8,8 +8,7 @@ To be updated
 
 
 
-We also develop a large-scale snow dataset which contains the veiling effect called "Snow Removal in Realistic Scenario (SRRS)". You can download from:
-https://drive.google.com/drive/folders/1lltPIAKBDuydc4IjDdus4O-QcnPrHAYe?usp=sharing
+
 
 ***
 You can also refer our related works on dehazing:  
