@@ -19,8 +19,7 @@ Paper:
 http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_PMS-Net_Robust_Haze_Removal_Based_on_Patch_Map_for_Single_CVPR_2019_paper.html
 
 Github:
-https://github.com/weitingchen83/Dehazing-PMS-Net-Robust-Haze-Removal-Based-on-Patch-Map-for-Single-Images-CVPR-2019
-
+https://github.com/weitingchen83/PMS-Net
 and
 
 2."PMHLD: Patch Map Based Hybrid Learning DehazeNet for Single Image Haze Removal" which has been published in **TIP 2020**.
