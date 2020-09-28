@@ -4,14 +4,11 @@
 * Wei-Ting Chen and Hao-Yu Feng share the equal contribution in this paper.
 
 
-
+![image](folder/ex.png)
 
 <br>
 [[Paper Download]](https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020)
 [[Code Download]](https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020)  
-
-![image](folder/ex.png)
-
 
 We also develop a large-scale snow dataset which contains the veiling effect called "Snow Removal in Realistic Scenario (SRRS)". You can download from:
 https://drive.google.com/drive/folders/1lltPIAKBDuydc4IjDdus4O-QcnPrHAYe?usp=sharing
