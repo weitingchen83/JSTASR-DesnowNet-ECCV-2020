@@ -2,10 +2,9 @@
 **Wei-Ting Chen, Hao-Yu Feng, Jian-Jiun Ding, Chen-Che Tsai and Sy-Yen Kuo**  
 
 * Wei-Ting Chen and Hao-Yu Feng share the equal contribution in this paper.
-
 <br>
 
-[[Paper Download]](https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020)
+[[Paper Download]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660749.pdf)
 [[Code Download]](https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020)  
 
 
