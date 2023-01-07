@@ -56,7 +56,7 @@ Example:
 $ python ./predict.py -dataroot ./testImg -predictpath ./p -batch_size 3
 $ python ./predict.py -dataroot ./testImg -datatype tif -predictpath ./p -batch_size 3
 ```
-The pre-trained model can be found at: https://drive.google.com/drive/folders/1xlH552gblaaD12ALmmN0h04t6ogDdHp9?usp=sharing
+The pre-trained model can be found at: https://tinyurl.com/uvcu4vk
 Please download three pre-trained models to the folder "modelParam".
 
 # Citations
