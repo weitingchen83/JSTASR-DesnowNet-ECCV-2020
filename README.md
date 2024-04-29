@@ -11,8 +11,7 @@
 ![image](folder/ex.png)
 
 
-We also develop a large-scale snow dataset which contains the veiling effect called "Snow Removal in Realistic Scenario (SRRS)". You can download from:
-https://ntucc365-my.sharepoint.com/:u:/g/personal/f05943089_ntu_edu_tw/ER0rk5-CgCxDhSw-6DS0scQBh9N_V49Gt6fAZb25qs4Pnw?e=SpxEM5
+We also develop a large-scale snow dataset which contains the veiling effect called "Snow Removal in Realistic Scenario (SRRS)". You can download from this [link](https://drive.google.com/file/d/1GX3e0ziUzBXnDtgeB5sHkgeWP1wUg5td/view?usp=sharing)
 
 
 ***
@@ -56,7 +55,7 @@ Example:
 $ python ./predict.py -dataroot ./testImg -predictpath ./p -batch_size 3
 $ python ./predict.py -dataroot ./testImg -datatype tif -predictpath ./p -batch_size 3
 ```
-The pre-trained model can be found at: https://ntucc365-my.sharepoint.com/:f:/g/personal/f05943089_ntu_edu_tw/EqcAfMiqqMxCtYqwMYn-4scBUHC_pwxnughbgZmC5v4eeQ?e=41O0df
+The pre-trained model can be found at this [website](https://drive.google.com/drive/folders/1GcJr4gOqO6ltjJY0Q94wQn-Ru4O09OK5?usp=sharing).
 Please download three pre-trained models to the folder "modelParam".
 
 # Citations
